@@ -418,6 +418,9 @@ iframe {
     width: 330px;
     cursor: pointer;
 }
+.text-home a{
+    text-decoration: none;
+}
 .page2{
     background-image: url(images/home-page2.png);
     background-size: cover;
